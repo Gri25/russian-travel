@@ -1,0 +1,28 @@
+.into {
+  margin: 0 auto;
+  padding-bottom: 64px;
+  padding-right: 16px;
+  padding-left: 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .into {
+    padding-bottom: 88px;
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .into {
+    padding-bottom: 92px;
+    padding-right: 0;
+    padding-left: 48px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .into {
+    padding-left: 148px;
+  }
+}

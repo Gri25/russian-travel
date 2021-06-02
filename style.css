@@ -1,0 +1,59 @@
+.page {
+  background-color:#2A2C2F;
+}
+
+header {
+  padding: 16px 48px 16px;
+  display: flex;
+}
+
+.header__logo {
+  background: #FFFFFF;
+}
+
+.header__lang-link {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  /* identical to box height, or 111% */
+  text-align: right;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+}
+
+.lead {
+  display: flex;
+}
+
+.lead__title {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 44px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.lead__subtitle {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.lead__image {
+  width: 100vw;
+  height: 62.5vw;
+  background-size: cover;
+  background-position: center;
+}
+
+.lead__caption {
+
+}

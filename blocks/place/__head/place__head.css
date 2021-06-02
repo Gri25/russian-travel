@@ -1,0 +1,28 @@
+.place__head {
+  display: flex;
+  flex-direction: column;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .place__head {
+    padding-left: 24px;
+    padding-right: 24px;
+    flex-direction: row;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place__head {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .place__head {
+    padding-left: 148px;
+    padding-right: 148px;
+  }
+}
