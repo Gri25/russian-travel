@@ -5,9 +5,8 @@
   line-height: 12px;
   letter-spacing: 0.2em;
   color: #AAAAAA;
-  padding-left: 16px;
-  padding-right: 16px;
   margin-bottom: 12px;
+  margin-top: 32px;
 }
 
 @media screen and (min-width: 768px) {
