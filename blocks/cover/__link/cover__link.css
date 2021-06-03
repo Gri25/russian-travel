@@ -12,9 +12,11 @@
   margin: 0;
   padding: 33px 16px;
   flex-direction: column;
+  background-repeat: no-repeat;
+  text-decoration: none;
 }
 
-.cover::before {
+.cover__link::before {
   background: #2A2C2F;
   opacity: 0.3;
   content: '';
@@ -25,7 +27,7 @@
   bottom: 0;
 }
 
-.cover:hover::before {
+.cover__link:hover::before {
   opacity: 0.8;
 }
 
