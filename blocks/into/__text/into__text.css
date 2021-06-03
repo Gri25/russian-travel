@@ -9,8 +9,7 @@
 
 @media screen and (min-width: 768px) {
   .into__text {
-  margin: 40px 0 33px;
-  max-width: 690px;
-  max-height: 208px;
+    margin: 40px 0 33px;
+    max-width: 690px;
   }
 }
